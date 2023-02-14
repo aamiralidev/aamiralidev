@@ -12,10 +12,10 @@ I'm a freelance software developer who loves to create open-source projects.
 
 ### Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your GitHub username]&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirali-dev&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[your GitHub username]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamirali-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&hide=stars,prs,issues&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[aamirali-dev]&show_icons=true&hide=stars,prs,issues&theme=radical)
