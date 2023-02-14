@@ -18,4 +18,4 @@ I'm a freelance software developer who loves to create open-source projects.
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[aamirali-dev]&show_icons=true&hide=stars,prs,issues&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aamirali-dev&show_icons=true&hide=stars,prs,issues&theme=radical)
