@@ -13,4 +13,4 @@ I'm a freelance software developer who loves to create open-source projects.
 ![Go](https://img.shields.io/badge/-Go-F05032?style=flat-square&logo=go&logoColor=white)
 
 
-<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamirali-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamirali-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
