@@ -58,7 +58,7 @@ Here are some of the technologies I work with:
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubashar-nouman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamirali-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ### Technologies and Tools
 
