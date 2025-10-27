@@ -3,21 +3,19 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/aamirali-dev"><img src="https://readme-typing-svg.herokuapp.com?lines=Python%2FDjango+Developer%3BJava%2FSpring+Developer&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
+  <a href="https://github.com/aamirali-dev"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Engineer;Machine Learning Engineer;Python+Backend+Developer&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
 </p>
 
 ## About Me
 
-I'm a Python/Django and Java/Spring developer with a passion for building robust and scalable web applications. Here are a few things about me:
+I'm an Artificial Intelligence Engineer and Python Backend developer passionate about building robust and scalable web applications. Here are a few things about me:
 
-- 🔭 I'm currently working as a Python/Django and Java/Spring Developer at Woxifi.
-- 🌱 I'm always eager to expand my knowledge and stay up-to-date with the latest technologies in web development.
-- 👯 I enjoy collaborating with other developers and sharing insights within the tech community.
+- 🔭 I'm currently working as an AI Engineer at CureMD.
+- 🌱 I'm always eager to expand my knowledge and stay up-to-date with the latest technologies.
+- 👯 I enjoy collaborating with other developers/engineers and sharing insights within the tech community.
 - 💎 If you share a passion for tech, let's connect!
 
 ## Tech Stack
-
-Here are some of the technologies I work with:
 
 <table width="100">
   <tr>
@@ -55,10 +53,6 @@ Here are some of the technologies I work with:
 - [LinkedIn](https://www.linkedin.com/in/aamiralidev/)
 - [Email](aamiraliadv1@gmail.com)
 - [GitHub](https://github.com/aamirali-dev)
-
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamirali-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ### Technologies and Tools
 
