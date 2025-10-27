@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/aamirali-dev"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial%2BIntelligence%2BEngineer%3BMachine%20Learning%20Engineer%3BPython%2BBackend%2BDeveloper%26font%3DRoboto%26size%3D24%26duration%3D3500%26pause%3D500%26center%3Dtrue%26width%3D500%26height%3D50%26color%3D9c033a"></a>
+  <a href="https://github.com/aamirali-dev"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial%2FIntelligence%2FEngineer%3BMachine%2FLearning%2FEngineer%3BPython%2FBackend%2FDeveloper&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
 </p>
 
 ## About Me
